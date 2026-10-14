@@ -1,4 +1,4 @@
-# Tidy Kingdom — Privacy Policy
+# Port Dynasty: Family Empire — Privacy Policy
 
 Published with GitHub Pages: https://ismaeljarias.github.io/tidy-kingdom-privacy/
 
