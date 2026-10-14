@@ -1,5 +1,5 @@
 # Port Dynasty: Family Empire — Privacy Policy
 
-Published with GitHub Pages: https://ismaeljarias.github.io/tidy-kingdom-privacy/
+Published with GitHub Pages: https://ismaeljarias.github.io/port-dynasty-privacy/
 
 Source of truth: `store/privacy-policy.html` in the (private) game repo; copy it here as `index.html` when it changes.
